@@ -1,2 +1,2 @@
-# -Unity-Unity-Random-3D-Terrain-Generation-System-Based-on-Stacked-Perlin-Noise-and-Weight-Matrix-
-如题
+用Unity实现的基于堆叠柏林噪音和权重矩阵的3D虚拟地形生成系统
+代码不规范之处请谅解
